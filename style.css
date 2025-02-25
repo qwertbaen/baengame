@@ -1,4 +1,7 @@
  @import url('https://rsms.me/inter/inter.css');
+body {
+  background-color: #ff0f0a;
+}
 html {
   background-color: #202124;
   color: #ffffff;
@@ -16,8 +19,9 @@ html {
     width: 100%;
     text-align: center;
   }
+
   a:link {
-    color: #8ab4f8;
+    color: #002af1;
     background-color: transparent;
     text-decoration: none;
   }
